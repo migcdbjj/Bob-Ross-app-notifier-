@@ -9,4 +9,4 @@ sudo apt install python3-tk
 pip install -r requirements.txt
 
 ## Usage
-python bob_ross_watcher.py
+python bob_ross.py
