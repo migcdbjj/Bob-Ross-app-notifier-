@@ -1,0 +1,3 @@
+ewmh
+pillow
+requests
